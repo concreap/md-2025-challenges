@@ -49,4 +49,5 @@ You are a software engineer at a growing e-commerce company. The current monolit
 1.  Commit your completed backend and frontend code to separate GitHub repositories.
 2.  Ensure your `README.md` file is clear and concise.
 3.  Invite `@braveredemptive` to your backend and frontend repositories. The link to your frontend repository should be included in the backend's `README.md`.
-4.  Submissions are due by the end of the week. Late submissions will not be reviewed.
+4.  Deadline for submission is Friday, 11:59 PM
+5.  Submissions are due by the end of the week. Late submissions will not be reviewed.
