@@ -40,7 +40,7 @@ You are a Product Designer tasked with improving the user experience of an outda
 
 ## 📬 Submission Guidelines
 
-1.  Ensure all deliverables are compiled into a single Google Doc.
-2.  Set the sharing permissions of your Google Doc to "Anyone with the link can view."
-3.  Fill out the submission form and provide the link to your Google Doc.
+1.  Ensure all deliverables are compiled into a this [Google Doc](https://docs.google.com/document/d/1epdj4Ese9ujA8FqKzSlxhlwJuaRlMbyD_IZenRRedCM/edit?usp=sharing) provided for submission.
+2.  Make sure you fill in the information on the google doc correctly.
+3.  Double submission automatically disqualifies your submission. Ensure you submit in the correct week based on the tab in the document
 4.  Submissions are due by the end of the week. Late submissions will not be reviewed.
