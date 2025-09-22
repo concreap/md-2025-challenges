@@ -58,5 +58,6 @@ This challenge requires you to build a machine learning model that automatically
 2.  Ensure your `README.md` file is clear and concise.
 3.  Invite `@braveredemptive` to your repository.
 4.  Ensure your `README.md` is well-formatted and easy to read.
-5.  Deadline for submission is Friday, 11:59 PM
-6.  Submissions are due by the end of the week. Late submissions will not be reviewed.
+5.  Ensure your submission entry is logged into this [Google Doc](https://docs.google.com/document/d/1Qm6oUOWyIRMX6ePicNEUmzdco0OQ3kXTQ4rigwcLAdc/edit?usp=sharing) provided for submission.
+6.  Deadline for submission is Friday, 11:59 PM
+7.  Submissions are due by the end of the week. Late submissions will not be reviewed.
