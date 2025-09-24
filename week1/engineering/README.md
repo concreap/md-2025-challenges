@@ -28,8 +28,8 @@ You are a software engineer at a growing e-commerce company. The current monolit
 
 ### **✅ Expected Deliverables**
 
-* **Backend Repository (Node.js)**: A public GitHub repository containing the `cart-service` API.
-* **Frontend Repository (React-Vite/Next.js)**: A public GitHub repository with the UI that interacts with your backend.
+* **Backend Repository (Node.js)**: A private GitHub repository containing the `cart-service` API.
+* **Frontend Repository (React-Vite/Next.js)**: A private GitHub repository with the UI that interacts with your backend.
 * **`README.md` File**: A single, well-documented `README.md` file in the main backend repository that includes:
     * A high-level architectural diagram of your proposed microservices.
     * Instructions to set up and run the backend and frontend services.

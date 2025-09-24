@@ -34,7 +34,7 @@ You are a Product Designer tasked with improving the user experience of an outda
 ## 📚 Relevant Links
 
 * **PDF**: "The Elements of User Experience" by Jesse James Garrett. The first few chapters provide a foundational understanding of the strategic and structural layers of UX. [http://jjg.net/elements/](http://jjg.net/elements/)
-* **Video**: "The Role of a UX Designer in a Microservices World" on YouTube. This video highlights how a modular system impacts design decisions. [https://www.youtube.com/watch?v=F0pLd6i-wG8](https://www.youtube.com/watch?v=F0pLd6i-wG8)
+* **Video**: "The Role of a UX Designer" on YouTube. This video highlights how a modular system impacts design decisions. [https://youtu.be/3zICP8XADfs?si=tdKD5gfTUA7j4NY9](https://youtu.be/3zICP8XADfs?si=tdKD5gfTUA7j4NY9)
 
 ---
 
