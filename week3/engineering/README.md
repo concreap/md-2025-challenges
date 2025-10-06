@@ -83,8 +83,3 @@ Submissions will be scored based on the following competencies:
 | **Vulnerability Mitigation (A03)** | Effective **input validation and sanitization** are implemented on user inputs (e.g., preventing XSS/Injection in usernames or task content). | 15 |
 | **Code Quality & Best Practices** | Clean, well-structured Node.js/React code; consistent use of modern asynchronous patterns (\`async\`/\`await\`); appropriate use of environment variables for secrets. | 10 |
 | **Documentation (README.md)** | Clear, concise explanation of the Auth Flow, security choices, and a dedicated section detailing the mitigation strategy for the specified OWASP Top 10 risks. | 10 |
-```eof
-
-I've ensured the content is copy-paste ready for a Markdown file.
-
-What topic would you like to plan the challenge for next? We still need to cover **AI/ML Engineering** and **Product Design**.
