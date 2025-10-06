@@ -1,0 +1,11 @@
+node_modules
+.txt
+/.txt
+*/.txt
+*.txt
+rubrics.md
+rubric.md
+*rubrics.md
+*rubric.md
+*/rubrics.md
+*/rubric.md
