@@ -68,18 +68,3 @@ You must implement a robust **JSON Web Token (JWT) authentication and authorizat
 5.  Ensure your **`README.md`** is complete and detailed as specified in the deliverables section.
 6. Deadline for submission is Friday, 11:59 PM
 7. Submissions are due by the end of the week. Late submissions will not be reviewed.
-
----
-
-## **Challenge Rubrics (Total 100 Points)**
-
-Submissions will be scored based on the following competencies:
-
-| Skill/Competence Focus | Description | Max Points |
-| :--- | :--- | :--- |
-| **Core Functionality & Completeness** | All required routes (Register, Login, Refresh, Task CRUD) are implemented, functional, and correctly integrated between the client and API. | 20 |
-| **Secure Token Implementation (A07)** | Correct use of **JWTs (Access/Refresh)**, proper handling of token expiration, and secure storage (explicitly avoiding vulnerable \`localStorage\`). | 25 |
-| **Role-Based Access Control (A01)** | The **Admin-only** restriction on the \`DELETE\` task route is strictly enforced by the backend middleware, demonstrating robust **Broken Access Control** mitigation. | 20 |
-| **Vulnerability Mitigation (A03)** | Effective **input validation and sanitization** are implemented on user inputs (e.g., preventing XSS/Injection in usernames or task content). | 15 |
-| **Code Quality & Best Practices** | Clean, well-structured Node.js/React code; consistent use of modern asynchronous patterns (\`async\`/\`await\`); appropriate use of environment variables for secrets. | 10 |
-| **Documentation (README.md)** | Clear, concise explanation of the Auth Flow, security choices, and a dedicated section detailing the mitigation strategy for the specified OWASP Top 10 risks. | 10 |
