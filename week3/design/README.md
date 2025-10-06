@@ -64,17 +64,3 @@ Design the interaction flow for an **Advanced Filtering** feature connected to t
 3.  Double submission automatically disqualifies your submission. Ensure you submit in the correct week based on the tab in the document
 4.  Deadline for submission is Friday, 11:59 PM
 5.  Submissions are due by the end of the week. Late submissions will not be reviewed.
-
----
-
-## **Challenge Rubrics (Total 100 Points)**
-
-Submissions will be scored based on the following competencies:
-
-| Skill/Competence Focus | Description | Max Points |
-| :--- | :--- | :--- |
-| **Component Scalability (Patterns)** | Clarity and definition of the foundational design system elements (Colors, Spacing, reusable components) that ensure consistency across hundreds of screens. | 25 |
-| **State Communication** | Effective and clear design of all $6$ required Data Table states. The user understands what is happening (loading, error, empty) immediately without confusion. | 35 |
-| **Flow Efficiency (Complexity Management)** | The Advanced Filtering flow is intuitive, minimizes cognitive load, and clearly communicates the results and current active criteria to the user. | 25 |
-| **Design Execution & Documentation** | Quality of high-fidelity visual design, adherence to component-based thinking, and clear rationale for scalability choices. | 15 |
-```eof

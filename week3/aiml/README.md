@@ -77,18 +77,3 @@ You must build the API layer and implement the necessary security middleware in 
 3. Ensure your **\`README.md\`** is complete and detailed as specified in the deliverables section.
 4.  Deadline for submission is Friday, 11:59 PM
 5.  Submissions are due by the end of the week. Late submissions will not be reviewed.
-
----
-
-## **Challenge Rubrics (Total 100 Points)**
-
-Submissions will be scored based on the following competencies:
-
-| Skill/Competence Focus | Description | Max Points |
-| :--- | :--- | :--- |
-| **Core Functionality & Stack** | The Python API runs, successfully loads a model, and returns a correct prediction when given valid, authenticated input. | 20 |
-| **Authentication Flow** | Correct implementation and validation of **JWTs** using the \`user_id\` payload element. | 20 |
-| **Authorization / IDOR Mitigation (Security)** | The API successfully restricts a query to the model associated with the authenticated \`user_id\`. Attempting to query another user's model fails with a $403$ or $404$. | 25 |
-| **Model DoS Mitigation (ML Security)** | Effective **input validation** is implemented to check the size and shape of the input data, immediately rejecting oversized or incorrect payloads with a $400$ error. This prevents a malicious user from submitting massive payloads that exhaust server memory or CPU cycles. | 25 |
-| **Documentation & Best Practices** | Clean code structure, use of Python best practices, and a detailed \`README.md\` explaining security choices. | 10 |
-```eof
