@@ -11,3 +11,6 @@ rubric.md
 */rubric.md
 .DS_Store
 *.DS_Store
+
+agents/
+./agents
